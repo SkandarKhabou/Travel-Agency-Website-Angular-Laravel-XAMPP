@@ -75,6 +75,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🖼️ Example UI
 
-![Bag&Fly UI](link-to-your-image-here)
+![Bag&Fly UI](Screenshots/Capture.PNG)
 
 Feel free to explore and contribute to the project!
